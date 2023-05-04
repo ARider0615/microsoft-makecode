@@ -12,7 +12,10 @@
         "tilemap.g.jres",
         "tilemap.g.ts",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        "invader.ts",
+        "images.ts",
+        "projectile.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -24,12 +27,12 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "palette": [
         "#000000",
         "#FFFFFF",
-        "#FF2121",
-        "#FF93C4",
+        "#FF66B8",
+        "#FF66B8",
         "#FF8135",
         "#FFF609",
         "#249CA3",
